@@ -1,0 +1,42 @@
+.container{
+  border: 1px solid black;
+  width: 1200px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.header{
+  margin-top: 65px;
+}
+
+.rasm{
+  float: top right;
+}
+
+.topnav{
+  width: 100%;
+}
+
+ul{
+  list-style-type: none;
+}
+
+.topnav ul{
+  overflow: hidden;
+  padding: 0;
+  margin: 0;
+}
+
+.topnav li a{
+  display: inline;
+  text-decoration: none;
+  padding: 15px 13px;
+  font-size: 18px;
+  float: right;
+  color: silver;
+}
+.topnav a:hover{
+  font-weight: bold;
+  color: black;
+  font-size: 18px;
+}
